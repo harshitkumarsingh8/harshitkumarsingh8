@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Harshit Kumar Singh
 
-<!--
-**harshitkumarsingh8/harshitkumarsingh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Galgotias University  
+🤖 Aspiring AI/ML Engineer  
+💻 Currently building my programming and problem-solving skills
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Machine Learning
+- Generative AI
+- Git & GitHub
+
+## 🎯 My Goals
+
+- Build real-world projects
+- Develop strong programming skills
+- Learn Artificial Intelligence and Machine Learning
+- Contribute to open-source projects
+- Become a professional AI/ML Engineer
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Harshit Kumar Singh](https://www.linkedin.com/in/harshit-kumar-singh-65358535a/)
